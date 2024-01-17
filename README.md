@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Wannabe - Front End Web Developer.
 ----------------------------------
 
-🌱 Aspiring Web Developer | Coding Since 2023 🏃‍♂️ Outdoor Enthusiast | Hiking, Running, and Biking Lover 🌿 Plant Parent | Greening my workspace one plant at a time
+🌱 Aspiring Web Developer | Coding Since 2023 🏃‍♂️ Outdoor Enthusiast | Hiking, Running, and Biking Lover
 
 * 🌍  I'm based in Wels, Austria
 * 🖥️  See my portfolio at [Github](http://bravebuttercup.github.io/portfoliopageofbogibator/)
