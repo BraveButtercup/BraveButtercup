@@ -7,7 +7,7 @@ Junior Front End Web Developer
 I'm currently learning the basics of web development. I took the first step towards coding in 2023, and since then I have been learning something new every day.
 
 * 🌍  I'm based in Wels, Austria
-* 🧠  I'm learning JavaScript, React
+* 🧠  I'm currently learning JavaScript, React
 * 🤝  I'm open to collaborating on any projects that challanges me.
 
 ### Skills
